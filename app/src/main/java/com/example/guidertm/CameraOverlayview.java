@@ -16,7 +16,7 @@ import android.util.Log;
 import android.view.View;
 
 /**
- * Created by 경석 on 2016-09-08.sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+ * Created by 경석 on 2016-09-08.ddddddddddddddddddd
  */
 public class CameraOverlayview extends View implements SensorEventListener {
 
