@@ -151,7 +151,7 @@ public class CameraActivity extends Activity {
         {
             try
             {
-                Thread.sleep(3000);   // 3초 뒤에 실행
+                Thread.sleep(50000000);   // 3초 뒤에 실행
                 check(count);
             }catch (Exception e)
             {
